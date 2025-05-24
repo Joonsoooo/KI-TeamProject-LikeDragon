@@ -13,7 +13,7 @@
 본 프로젝트는 **Like a Dragon: Ishin!**을 모작하여, 원작의 게임 플레이 스타일을 참고했으며  
 게임 플레이에 대한 핵심 시스템을 직접 개발하였으며, Gameplay Ability System을 적극적으로 사용하였습니다.
 
-//**[시연 영상]()**
+👉 [시연 영상 (우클릭하여 새 탭에서 링크 열기 권장)](https://www.youtube.com/watch?v=NTJPDxIfybw)
 
 ---
 
