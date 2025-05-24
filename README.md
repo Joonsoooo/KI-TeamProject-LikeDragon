@@ -1,4 +1,5 @@
 ## l11
+![Image](https://github.com/user-attachments/assets/bc4dd515-a0d7-4d2c-bbeb-0b820ea7305d)
 
 > **용과 같이 모작 팀 프로젝트**  
 > **개발 기간**: 2024년 12월 9일 ~ 2025년 1월 3일 (약 4주)  
